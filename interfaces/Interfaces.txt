@@ -1,0 +1,18 @@
+Create an interface Type with two methods (Add, Subtract)
+
+Define the methods
+
+Using that interface Pass values and get the values using that method
+
+
+
+learn about channels, how to create a channel, how to send and receive a value from the channel
+working on the channels exercise
+
+
+Today's Status(24-06-2022) :
+Submit the weekly exercise interfaces.
+And watched the Golang channels video 1&2
+Then referring the internet about Golang channels
+And learn about channels, how to create a channel, how to send and receive a value from the channel
+And worked in the channels exercise.

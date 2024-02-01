@@ -1,0 +1,9 @@
+Write a program to encrypt and decrypt the given text
+
+
+
+
+Today's Status (20-08-2022):
+Refer the internet about encrypt and decrypt concept in golang. 
+And learn about crypto/sha256 package in golang.
+Then worked on the encrypt & decrypt internal exercise.
